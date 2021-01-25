@@ -1,6 +1,7 @@
 # ancient_Chinese
 训练后的模型可以用 pytorch 调用。
 
+链接: https://pan.baidu.com/s/1nFWh_wglJhhJABlUvfDdeg  密码: kcb5
 ## 论文信息
 论文《数字技术视域下老子思想的源头研究》
 
